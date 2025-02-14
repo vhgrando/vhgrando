@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm Victor Hugo Grando, vhgrando.
+🚀 Aspiring Cloud Security Engineer | Cybersecurity & Software Engineering Student 
 
-<!--
-**vhgrando/vhgrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about **Cloud Security, Automation, and Cybersecurity** 
+🔹 Learning **AWS, Azure, Google Cloud, and Security Best Practices** 
+🔹 Developing **Security Automation Projects** using Python and Terraform 
+🔹 Exploring **SIEM, Incident Response, and Infrastructure as Code (IaC)** 
+🔹 Sharing my journey on [LinkedIn](https://www.linkedin.com/in/vhgrando/) 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools: 
+- **Cloud Security:** AWS IAM, VPC, Security Groups, CloudTrail
+- **Automation & Scripting:** Python, Terraform, Bash
+- **Cybersecurity Tools:** SIEM (Splunk, Wazuh), Firewalls, IDS/IPS 
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently working on **Cloud Security Monitoring & Automation Projects**
+- 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/vhgrando/)**
