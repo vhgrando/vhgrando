@@ -2,9 +2,13 @@
 🚀 Aspiring Cloud Security Engineer | Cybersecurity & Software Engineering Student 
 
 🔹 Passionate about **Cloud Security, Automation, and Cybersecurity** 
+
 🔹 Learning **AWS, Azure, Google Cloud, and Security Best Practices** 
+
 🔹 Developing **Security Automation Projects** using Python and Terraform 
+
 🔹 Exploring **SIEM, Incident Response, and Infrastructure as Code (IaC)** 
+
 🔹 Sharing my journey on [LinkedIn](https://www.linkedin.com/in/vhgrando/) 
 
 ## 🔧 Technologies & Tools: 
